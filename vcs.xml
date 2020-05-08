@@ -158,9 +158,13 @@
           <option name="url" value="http://192.168.1.225:7990/scm/jskq/frontend_web_admin_design.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/jyxypxgl/yx_frontend_uniapp_design.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="W:\_Bitbucket\建设类考前平台" />
+    <option name="cloneParentDir" value="W:\_Bitbucket\7.0福建教育学院培训管理平台" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
