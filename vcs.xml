@@ -30,6 +30,10 @@
           <option name="url" value="http://192.168.1.225:7990/scm/kczyshxt/frontend_web_admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/kczyshxt/frontend_web_admin_design.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\WorkPlaces\codes\_Bitbuckets\补贴性培训课程教材审核系统" />
