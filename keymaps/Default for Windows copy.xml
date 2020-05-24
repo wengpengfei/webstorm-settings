@@ -3,7 +3,4 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="EditorUnSelectWord" />
-  <action id="Terminal.OpenInTerminal">
-    <keyboard-shortcut first-keystroke="alt numpad1" />
-  </action>
 </keymap>
