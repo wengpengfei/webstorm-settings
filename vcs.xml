@@ -98,9 +98,21 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="wengpengfei" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.aliyun.com:spoto/cms-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.aliyun.com/spoto/cms-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.aliyun.com" />
+          <option name="userName" value="wengpengfeijava1" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\WorkPlaces\codes\_Bitbuckets\福建卫健委" />
+    <option name="cloneParentDir" value="E:\WorkPlaces\_Get_money_projects_deeeeeeeeemo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
