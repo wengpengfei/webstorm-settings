@@ -7,6 +7,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env.test2" type="PLAIN_TEXT" />
       <mapping pattern=".env.test1" type="PLAIN_TEXT" />
+      <mapping pattern="create" type="PLAIN_TEXT" />
       <mapping pattern="defineProperty" type="PLAIN_TEXT" />
       <mapping pattern=".vuepress" type="PLAIN_TEXT" />
       <mapping pattern=".hbrc" type="PLAIN_TEXT" />
