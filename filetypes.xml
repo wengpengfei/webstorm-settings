@@ -16,6 +16,7 @@
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern="defineProperty" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
+      <mapping ext="jss" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="vuie" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
