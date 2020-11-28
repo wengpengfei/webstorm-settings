@@ -122,6 +122,10 @@
           <option name="url" value="https://github.com/wengpengfei/vue-admin-template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wixplosives/sample-monorepo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\WorkPlaces\Githubs" />
