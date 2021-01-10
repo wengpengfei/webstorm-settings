@@ -126,9 +126,13 @@
           <option name="url" value="https://github.com/wixplosives/sample-monorepo" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@codeup.aliyun.com:5f6174d65fd102f22f6beb47/library/frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\WorkPlaces\Githubs" />
+    <option name="cloneParentDir" value="E:\WorkPlaces\aliyun\library" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
