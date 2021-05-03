@@ -18,9 +18,9 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACE_WITHIN_TYPE_ASSERTION" value="true" />
   </TypeScriptCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
+  <VueCodeStyleSettings>
+    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template, script, style" />
+  </VueCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
