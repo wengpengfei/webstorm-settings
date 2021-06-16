@@ -42,9 +42,13 @@
           <option name="url" value="http://192.168.1.225:7990/scm/big-frontend/fjhb-nodejs-plugin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/fjzyjkpx/frontend_web_customer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\WorkPlaces\codes\_Bitbuckets" />
+    <option name="cloneParentDir" value="E:\WorkPlaces\codes\_Bitbuckets\福建卫健委" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
