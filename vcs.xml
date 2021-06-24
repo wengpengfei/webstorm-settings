@@ -54,6 +54,10 @@
           <option name="url" value="http://192.168.1.225:7990/scm/hbfe-apps/course-player.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.225:7990/scm/kczyshxt/fjzypxlm_training_backed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\WorkPlaces\codes\_Bitbuckets" />
