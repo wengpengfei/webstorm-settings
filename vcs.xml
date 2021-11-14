@@ -82,9 +82,13 @@
           <option name="url" value="https://github.com/chuzhixin/vue-mall-beautiful" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/jtdjioas/jxhy_business_client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\WorkPlaces\codes\_" />
+    <option name="cloneParentDir" value="E:\WorkPlaces\codes\__WMK" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
