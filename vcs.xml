@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/myliang/x-spreadsheet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/jtdjioas/jhxy_java_busienss_apk_yyc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\WorkPlaces\codes" />
